@@ -1,0 +1,2 @@
+ProyectoEstru1/.vs
+/x64
